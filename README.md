@@ -4,9 +4,10 @@
 ##
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&layout=compact&langs_count=16&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&layout=compact&langs_count=16&theme=midnight-purple&hide_title=true">
 </div>
+
 <!-- generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##
