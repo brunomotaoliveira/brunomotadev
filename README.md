@@ -1,5 +1,5 @@
 ![Snake animation](https://github.com/brunomotadev/brunomotadev/blob/output/github-contribution-grid-snake.svg)
-<small>generated with [Platane/snk](https://github.com/Platane/snk)_</small>
+<!-- generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
 ##
 
@@ -7,7 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&layout=compact&langs_count=16&theme=dracula">
 </div>
-<small>generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</small>
+<!-- generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##
 
@@ -25,7 +25,7 @@
     <img align="center" alt="brunomotadev-linux" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/linux-original.svg">
 </div>
 
-<small>generated with [devicon](https://devicon.dev/)</small>
+<!-- generated with [devicon](https://devicon.dev/) -->
 
 
 
