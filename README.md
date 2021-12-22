@@ -1,29 +1,14 @@
-![Snake animation](https://github.com/brunomotadev/brunomotadev/blob/output/github-contribution-grid-snake.svg)
-<!-- generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+*Cursei engenharia da computação na UNIVESP, e depois análise e desenvolvimento de sistemas na UNINOVE, durante o período que estava na faculdade fiz estágio na área de desenvolvimento web, onde atuava mais como pessoa desenvolvedora de front-end com as tecnologias **Wordpress**, **Angular**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Firebase**, **Bootstrap**, **jQuery** e **Node.js**.*
+
+*Tenho mais de 3 anos de experiência com atendimento ao cliente(telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.*
+
+*Atualmente sou desenvolvedor back-end na CoreBiz. Desenvolvendo aplicações voltadas ao e-commerce com as tecnologias **PHP**, **Laravel**, **Vue.js**, **MySQL**, **VTEX** e **Docker***
 
 ##
 
 
 
-<div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&layout=compact&langs_count=16&theme=midnight-purple&hide_title=true">
-</div>
-<!-- generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) -->
-
 ##
-
-<div style="display: inline-block" ><br>
-    <img align="center" alt="brunomotadev-docker" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/docker-original.svg">
-    <img align="center" alt="brunomotadev-javascript" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/javascript-original.svg">
-    <img align="center" alt="brunomotadev-html5" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/html5-original.svg">
-    <img align="center" alt="brunomotadev-css3" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/css3-original.svg">
-    <img align="center" alt="brunomotadev-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/bootstrap-plain.svg">
-    <img align="center" alt="brunomotadev-windows" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/windows8-original.svg">
-    <img align="center" alt="brunomotadev-linux" height="30" width="40" src="https://raw.githubusercontent.com/brunomotadev/brunomotadev/main/assets/icons-devicons/linux-original.svg">
-</div>
-
-<!-- generated with [devicon](https://devicon.dev/) -->
 
 
 
