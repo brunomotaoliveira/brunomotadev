@@ -6,11 +6,11 @@
 
 ##
 
-
+![html5](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/html5.svg) ![css3](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/css3.svg) ![javascript](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/javascript.svg) ![vuejs](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/vuejs.svg) ![bootstrap](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/bootstrap.svg) ![mysql](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/mysql.svg) ![php](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/php.svg)
 
 ##
 
-
+![linkedin](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/linkedin.svg) ![twitter](https://github.com/brunomotadev/brunomotadev/blob/main/assets/icons-devicons/twitter.svg)
 
 <!--
 **brunomotadev/brunomotadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
