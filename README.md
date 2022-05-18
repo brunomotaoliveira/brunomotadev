@@ -2,7 +2,7 @@
 
 *Tenho mais de 3 anos de experiência com atendimento ao cliente(telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.*
 
-*Atuel como desenvolvedor back-end na CoreBiz. Desenvolvendo aplicações voltadas ao e-commerce com as tecnologias **PHP**, **Laravel**, **Vue.js**, **MySQL**, **VTEX** e **Docker***
+*Atuei como desenvolvedor back-end na CoreBiz. Desenvolvendo aplicações voltadas ao e-commerce com as tecnologias **PHP**, **Laravel**, **Vue.js**, **MySQL**, **VTEX** e **Docker***
 
 *Atualmente sou Developer Analyst Junior na Topaz*
 
